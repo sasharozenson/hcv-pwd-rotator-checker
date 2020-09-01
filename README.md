@@ -1,6 +1,7 @@
 # What for?
  - This script is intended to check whether there are hosts that didn't rotate their password for more than 24h
  - Script will send mail only if there are at least one server
+ - Supports only kv2 
  
 # Requirements
  - python3
