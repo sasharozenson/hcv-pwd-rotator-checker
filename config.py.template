@@ -1,0 +1,14 @@
+# Vault token with read access to the "secret" kv2 storage, example: s.blahblahblahblah
+token = ""
+
+# Relay server for mails, example: smtp.yourdomain.com
+smtp_server = ""
+
+#Vault API URI, example: https://vault.yourdomain.com:8200/v1/systemcreds
+vault_api_uri = ""
+
+#Mail sender, example: noreply@yourdomain.com
+mail_from = ""
+
+#Mail Receiver, example: itarethecoolestguysinthecompany@yourdomain.com
+mail_to = ""
