@@ -9,12 +9,13 @@
  - Hashi Corp Vault
 
 # Configuration
- - mv config.py.template config.py
- - vim config.py insert valid vault token
+ * mv config.py.template config.py
+ * vim config.py
+ * chmod +x rprc.py
 
 # Usage
- - This script is running by crontab (Currently on it-bot)
- - python3 rptc.py
+ - This script intended to run in crontab
+ - python3 rprc.py
 
 # To Be done
  - ignore list
